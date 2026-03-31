@@ -1,0 +1,307 @@
+viva questions
+
+1. What is a project?
+A temporary activity to create a unique product or service.
+
+2. What is project management?
+Planning, organizing and controlling project activities.
+
+3. What is project scheduling?
+Planning project activities based on time.
+
+4. What is estimation?
+Predicting project time and cost.
+
+5. What is deliverable?
+Final output of a project.
+
+6. What is milestone?
+Important checkpoint in a project.
+
+7. What is stakeholder?
+Person interested in project outcome.
+
+8. What is resource allocation?
+Assigning resources to tasks.
+
+9. What is project scope?
+Defines project boundaries.
+
+10. What is Gantt chart?
+Graphical project schedule chart.
+
+Agile & Scrum
+
+11. What is Agile?
+Iterative software development approach.
+
+12. What is Scrum?
+Agile framework for managing projects.
+
+13. What is Sprint?
+Fixed development iteration (2–4 weeks).
+
+14. What is Product Backlog?
+List of project requirements.
+
+15. What is Sprint Backlog?
+Tasks selected for sprint.
+
+16. What is Daily Scrum?
+Daily 15-minute team meeting.
+
+17. Who is Product Owner?
+Person managing requirements.
+
+18. Who is Scrum Master?
+Person facilitating Scrum process.
+
+19. What is increment?
+Working product after sprint.
+
+20. What is user story?
+Short description of requirement.
+
+PERT CPM
+
+21. What is PERT?
+Program Evaluation Review Technique (probabilistic).
+
+22. What is CPM?
+Critical Path Method (deterministic).
+
+23. What is critical path?
+Longest project path.
+
+24. What is slack?
+Extra time available.
+
+25. What is float?
+Delay allowed without affecting project.
+
+26. What is activity?
+Task in project.
+
+27. What is event?
+Start or end point.
+
+28. What is network diagram?
+Graph showing activity flow.
+
+29. What is ES?
+Early Start time.
+
+30. What is EF?
+Early Finish time.
+
+Risk Management
+
+31. What is risk?
+Uncertain project problem.
+
+32. What is risk probability?
+Chance of risk occurring.
+
+33. What is risk impact?
+Effect of risk.
+
+34. What is risk mitigation?
+Reducing risk impact.
+
+35. What is risk register?
+Risk documentation list.
+
+Tools
+
+36. What is Jira?
+Project tracking tool.
+
+37. What is Trello?
+Kanban project tool.
+
+38. What is Taiga?
+Agile project tool.
+
+39. What is OpenProject?
+Project planning software.
+
+40. What is Asana?
+Task management tool.
+
+DevOps
+
+41. What is DevOps?
+Development and Operations integration.
+
+42. What is CI?
+Continuous Integration.
+
+43. What is CD?
+Continuous Delivery/Deployment.
+
+44. What is Jenkins?
+CI/CD automation tool.
+
+45. What is Git?
+Version control system.
+
+Testing & ITIL
+
+46. What is Selenium?
+Automation testing tool.
+
+47. What is automated testing?
+Testing using tools.
+
+48. What is ITIL?
+IT service management framework.
+
+49. What is incident?
+Service interruption.
+
+50. What is root cause analysis?
+Finding main problem reason.
+
+1. What is project scheduling?
+Planning project activities with start and end dates.
+
+2. What is backlog?
+List of tasks or requirements to be completed.
+
+3. What is sprint?
+A fixed time period to complete tasks in Agile.
+
+4. Difference between Scrum and Kanban?
+Scrum uses sprints; Kanban uses continuous workflow.
+
+5. What is project milestone?
+A key event marking project progress.
+
+6. What is Agile methodology?
+An iterative approach for flexible project development.
+
+7. What is task dependency?
+When one task depends on completion of another.
+
+8. What is PERT?
+Technique used to estimate project time using probabilities.
+
+9. What is CPM?
+Method to find longest path in project schedule.
+
+10. Define critical path.
+Longest sequence of activities determining project duration.
+
+11. What is slack?
+Extra time available without delaying project.
+
+12. Difference between PERT and CPM?
+PERT is probabilistic; CPM is deterministic.
+
+13. What is network diagram?
+Graphical representation of project activities.
+
+14. What is float?
+Allowable delay without affecting schedule.
+
+15. What is project risk?
+Uncertain event affecting project success.
+
+16. Risk mitigation?
+Actions taken to reduce risk impact.
+
+17. Risk priority?
+Ranking risks based on severity.
+
+18. Risk probability?
+Chance of risk occurrence.
+
+19. Risk impact?
+Effect of risk on project.
+
+20. What is bottleneck?
+Activity causing delay in workflow.
+
+21. What is dependency?
+Relationship between tasks.
+
+22. What is critical activity?
+Activity on critical path.
+
+23. What is delay risk?
+Risk causing project delay.
+
+24. What is resource constraint?
+Limited availability of resources.
+
+25. What is Scrum?
+Agile framework for project management.
+
+26. What is product backlog?
+List of product requirements.
+
+27. What is sprint planning?
+Meeting to decide sprint tasks.
+
+28. What is daily scrum?
+Daily short status meeting.
+
+29. What is increment?
+Working product after sprint.
+
+30. What is product owner?
+Person managing requirements.
+
+31. What is scrum master?
+Person ensuring Scrum process is followed.
+
+32. What is project audit?
+Review of project performance.
+
+33. What is quality assurance?
+Process ensuring quality standards.
+
+34. What is stakeholder?
+Person interested in project.
+
+35. What is compliance?
+Following rules and standards.
+
+36. What is documentation?
+Written project information.
+
+37. What is ITIL?
+Framework for IT service management.
+
+38. What is incident?
+Service interruption.
+
+39. What is service management?
+Managing IT services effectively.
+
+40. What is root cause?
+Main reason for problem.
+
+41. What is SLA?
+Service Level Agreement defining service terms.
+
+42. What is DevOps?
+Integration of development and operations.
+
+43. What is CI/CD?
+Continuous Integration and Continuous Deployment.
+
+44. What is Jenkins?
+Automation tool for CI/CD.
+
+45. What is Selenium?
+Web automation testing tool.
+
+46. What is automation testing?
+Testing using software tools.
+
+47. What is integration testing?
+Testing combined modules.
+
+48. What is deployment pipeline?
+Steps to release software.
